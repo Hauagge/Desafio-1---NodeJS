@@ -1,5 +1,5 @@
 {
-  "name": "backend",
+  "name": "desafioNodeJS",
   "version": "1.0.0",
   "main": "src/server.js",
   "license": "MIT",
@@ -16,5 +16,7 @@
     "jest": "^25.2.6",
     "nodemon": "^2.0.2",
     "supertest": "^4.0.2"
-  }
+  },
+  "repository": "https://github.com/Hauagge/Desafio-1---NodeJS.git",
+  "author": "Gabriel Hauagge"
 }
